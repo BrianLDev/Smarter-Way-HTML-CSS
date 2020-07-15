@@ -16,3 +16,7 @@ p.important {
 .typewriter {
     font-family: "Courier New", Courier, monospace;
 }
+
+.italic {
+    font-style: italic;
+}

@@ -22,3 +22,8 @@ p.important {
 .redhex {
     color: #cc0000;
 }
+.spacey {
+    letter-spacing: .15em;
+    word-spacing: .5em;
+    line-height: 1.5em;
+}

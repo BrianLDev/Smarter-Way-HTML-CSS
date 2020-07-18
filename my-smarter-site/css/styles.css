@@ -16,6 +16,13 @@ p.important {
 p.justify {
     text-align: justify;
 }
+p.indent {
+    text-indent: 1em;
+}
+blockquote {
+    font-size: 0.9em;
+    color: darkslategray;
+}
 .typewriter {
     font-family: "Courier New", Courier, monospace;
 }

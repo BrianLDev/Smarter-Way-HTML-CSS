@@ -2,6 +2,9 @@ h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 1.2em;
 }
+h3 {
+    text-align: center;
+}
 p {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 1em;
@@ -9,6 +12,9 @@ p {
 p.important {
     font-size: 1.5em;
     font-weight: 900;
+}
+p.justify {
+    text-align: justify;
 }
 .typewriter {
     font-family: "Courier New", Courier, monospace;
